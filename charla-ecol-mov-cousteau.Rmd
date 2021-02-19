@@ -1,0 +1,286 @@
+---
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: title-slide, center, middle
+
+<!-- <center> -->
+
+# Una revisión cuantitativa de la Ecología del Movimiento en la última década
+
+## Rocío Joo
+
+2021-02-19
+
+<!-- </center> -->
+
+`r  icon::fontawesome$brands$"twitter-square" `  @rocio_joo
+`r  icon::fontawesome("envelope") `  rocio_joo@globalfishingwatch.org
+
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#ffffff",
+  secondary_color = "#ffffff",
+  inverse_header_color = "#3c3c3b"
+)
+```
+
+# Colaboradores
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/colaboradoresII.png")
+```
+
+---
+
+# Ecología del Movimiento
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/mov-eco-context-1.png")
+```
+
+---
+
+# Ecología del Movimiento
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/mov-eco-context-6.png")
+```
+
+---
+
+# Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/timeline-others-1.png")
+```
+
+---
+
+# Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/timeline-others-3.png")
+```
+
+---
+
+# Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/timeline-others-4.png")
+```
+
+---
+
+# Paradigma de la Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-original-1.png")
+```
+
+---
+
+# Paradigma de la Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-original-2.png")
+```
+
+
+---
+
+# Paradigma de la Ecología del Movimiento
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-original-3.png")
+```
+
+---
+
+# En este estudio
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/timeline-others-4.png")
+```
+
+---
+
+# En este estudio: la última década
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/timeline-others-5.png")
+```
+
+
+---
+
+# ¿Cómo?
+
+<br></br>
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/text-slides.png")
+```
+
+<br></br>
+
+--
+
+* **8007** artículos de Ecología del Movimiento 2009-2018
+
+* Más sobre los métodos: https://rociojoo.github.io/mov-eco-review/
+
+* El estudio completo: https://arxiv.org/abs/2006.00110
+
+
+---
+
+# El paradigma de la Ecología del Movimiento (2009-2018)
+
+```{r, out.width = "70%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-V-1.png")
+```
+
+
+---
+
+# El paradigma de la Ecología del Movimiento (2009-2018)
+
+```{r, out.width = "70%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-V.png")
+```
+
+---
+
+# El paradigma de la Ecología del Movimiento (1999-2008)
+
+```{r, out.width = "70%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/MovEcoDesign-V-1999-2008.png")
+```
+
+---
+
+# Grupos taxonómicos
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/pokemon.jpeg")
+```
+
+---
+
+# Grupos taxonómicos
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/taxonomy_ts_all_1.png")
+```
+---
+
+# Grupos taxonómicos
+
+```{r, out.width = "90%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/taxonomy_ts_all_2.png")
+```
+---
+
+# Temas
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/TopicsGamma_ts1.png")
+```
+
+---
+
+# Temas y grupos taxonómicos
+
+```{r, out.width = "95%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/Barplots_topics_taxa.png")
+```
+
+---
+
+# Registradores de seguimiento y software
+
+.pull-left[
+```{r, out.width = "80%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/tagging.jpeg")
+```
+]
+
+.pull-right[
+<br> </br>
+```{r, out.width = "80%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/software.png")
+```
+]
+
+---
+
+# Registradores de seguimiento y software
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/devices_ts_all.png")
+```
+
+---
+
+# Registradores de seguimiento y software
+
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/software_ts_all.png")
+```
+
+---
+
+# Conclusiones y apertura
+
+* El paradigma:
+  * Factores externos > procesos del movimiento
+  * ¿Es útil? ¿Es usado? ¿Es central?
+
+--
+
+* Registradores:
+  * Más precisión
+  * "Nuevas" formas de seguimiento
+
+--
+
+* Software:
+  * Prevalencia de R
+
+--
+
+* ¿Los datos y tecnología condicionan este campo más que los nuevos conceptos e ideas?
+* ¿Podría haber más integración entre ciencias de la tierra, del mar, de los humanos?
+
+
+
+---
+
+<br> </br>
+
+```{r, out.width = "70%", fig.align='center', echo=FALSE}
+knitr::include_graphics("./img/gracias2.jpeg")
+```
+
+<center>
+
+`r  icon::fontawesome$brands$"twitter-square" `  @rocio_joo
+
+</center>
